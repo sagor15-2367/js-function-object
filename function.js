@@ -6,3 +6,9 @@ function startFan(){
 }
 // call the function
 startFan();
+console.log('My name is a sagor');
+startFan();
+startFan();
+console.log('eating food ');
+startFan();
+startFan();
